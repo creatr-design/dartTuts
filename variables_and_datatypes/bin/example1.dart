@@ -1,3 +1,6 @@
 void main(List<String> args) {
-  print("Hello");
+  const name = "Foo";
+  print(name);
+  // Invalid Code
+  // name = "Hello";
 }
